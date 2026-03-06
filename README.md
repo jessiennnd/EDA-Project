@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on **Exploratory Data Analysis (EDA)** of a large sales dataset (2M+ records) to uncover patterns in **sales value**.
+This project focuses on **Exploratory Data Analysis (EDA)** of a large sales dataset (2M+ records) to uncover patterns in **sales value** for a compnay that sells bulbs.
 
 The **EDA highlights trends, distributions, and patterns** in sales performance across different customer segments and seasons. Insights from this stage form the core of the analysis.
 
