@@ -1,4 +1,4 @@
-# EDA: Analysis on an Electricity and Energy Company
+# EDA: Energy Company Case study
 
 ## Project Overview
 
