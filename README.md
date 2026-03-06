@@ -1,4 +1,4 @@
-# EDA: Energy Company Case study
+# EDA: Energy Industry Case study
 
 ## Project Overview
 
