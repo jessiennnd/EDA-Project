@@ -1,4 +1,4 @@
-# EDA: Energy Industry Case study
+# EDA: Sales Analysis for a company in Energy industry
 
 ## Project Overview
 
